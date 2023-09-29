@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francisco Medina Paz
-- 👀 I’m interested in microbial ecology, metagenomics, plant microbiomes
-- 🌱 I’m currently Ph.D. student
+- 👀 I’m interested in microbial ecology, metagenomics, all types microbiomes
+- 🌱 I’m currently a postdoctoral associate researcher at New Jersey Institute of Technology
 - 💞️ I’m looking to collaborate on microbial ecology studies
 - 📫 How to reach me fmedinapz@gmail.com
 
